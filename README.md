@@ -47,15 +47,16 @@ I'm passionate about finding patterns in data, building models that actually wor
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔜 *Coming soon* | Uploading projects from my BSc — stay tuned! | Python · R · SQL |
+| [food-budget-regression](https://github.com/data-saurusrex/food-budget-regression) | Multiple linear regression to predict household food expenditure share — 7 OLS/polynomial/WLS models, AIC-selected | R |
+| [housing-price-clustering](https://github.com/data-saurusrex/housing-price-clustering) | PCA + K-Means clustering on housing price data — silhouette-optimised segmentation | R |
+| [tennis-match-prediction](https://github.com/data-saurusrex/tennis-match-prediction) | Binary classification (2 vs 3 sets) on ATP Japan matches — 13 models, CRISP-DM methodology | Python |
 
 ---
 
-## GitHub Stats
+## Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=data-saurusrex&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-saurusrex&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-saurusrex&layout=donut&theme=dark&hide_border=true&langs_count=6" height="200"/>
 </p>
 
 ---
